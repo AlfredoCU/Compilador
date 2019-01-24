@@ -1,0 +1,32 @@
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.exe.config
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.exe
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.pdb
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\MainWindow.baml
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\MainWindow.g.cs
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\App.g.cs
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer_MarkupCompile.cache
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.g.resources
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.exe
+C:\Users\Alfredo\Desktop\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\MainWindow.baml
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\MainWindow.g.cs
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\App.g.cs
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer_MarkupCompile.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.g.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.Properties.Resources.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Material\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Entrega 1\Código\Compilador 2\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.exe.config
+C:\Users\Alfredo\Desktop\Entrega 1\Código\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.exe
+C:\Users\Alfredo\Desktop\Entrega 1\Código\Compilador 2\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Entregas\Entrega 1\Código\Compilador As 1\GUI_RegexLexer\bin\Debug\GUI_RegexLexer.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Entregas\Entrega 1\Código\Compilador As 1\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Entregas\Entrega 1\Código\Compilador As 1\GUI_RegexLexer\obj\Debug\GUI_RegexLexer.pdb

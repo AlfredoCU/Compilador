@@ -1,4 +1,4 @@
-# Compilador
+# Compilador.
 ## Analizador Léxico.
 
 A continuación, se va a presentar un trabajo acerca de un proyecto compilador. El compilador, como se podrá ver más adelante, tiene analizadores que analizan un lenguaje dado por el usuario. Pero para que un compilador corra tiene varias etapas que son:

@@ -68,3 +68,6 @@ C:\Users\Alfredo\Desktop\Ard Compilador\CompEd\bin\Debug\ManejoDeErrores.dll
 C:\Users\Alfredo\Desktop\Ard Compilador\CompEd\bin\Debug\Tsimbolos.dll
 C:\Users\Alfredo\Desktop\Ard Compilador\CompEd\bin\Debug\ManejoDeErrores.pdb
 C:\Users\Alfredo\Desktop\Ard Compilador\CompEd\bin\Debug\Tsimbolos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Entregas\Entrega 1\Código\Compilador\Ard Compilador\CompEd\obj\x86\Debug\CompEd.csproj.ResolveComReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Entregas\Entrega 1\Código\Compilador\Ard Compilador\CompEd\obj\x86\Debug\CompEd.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Traductores de Lenguajes II\Entregas\Entrega 1\Código\Compilador\Ard Compilador\CompEd\obj\x86\Debug\CompEd.pdb

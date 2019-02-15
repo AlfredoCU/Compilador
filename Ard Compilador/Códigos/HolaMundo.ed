@@ -1,0 +1,28 @@
+<#int montura : 32 ;
+
+<#double numero : 32 ;
+{
+<#string texto : 'hola';
+monto : 23 ;
+
+<#bool verdad : true 
+}
+<< hola >>
+#mintrs ( num2 < num3 ) {
+}
+<<si_ ( 3 >: 4 ) {
+}
+<<ysi_ ( 3 < n ) {
+}
+<<sino {
+}
+#ncasd ( 3 < n ) {
+}
+casd ( 3 ) {
+}
+fcasd ;
+
+
+
+
+

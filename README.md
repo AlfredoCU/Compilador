@@ -1,5 +1,5 @@
 # Compilador.
-## Analizador Léxico.
+## Analizador Sintatico.
 
 A continuación, se va a presentar un trabajo acerca de un proyecto compilador. El compilador, como se podrá ver más adelante, tiene analizadores que analizan un lenguaje dado por el usuario. Pero para que un compilador corra tiene varias etapas que son:
 - Analizador Léxico.
@@ -15,4 +15,4 @@ Realizando la primera etapa del compilador que será el Analizador Léxico. La p
 
 El lenguaje Fuente tiene una sintaxis específica la cual se describe en la propuesta; es decir que tiene sus palabras reservadas, su sintaxis indica que orden debe llevar la declaración de variables, el orden de las condicionales, orden en ciclos, orden en expresiones lógicas, etc.
 
-![Compilador](https://github.com/AlfredoCU/Compilador/blob/master/Img/Compilador.png)
+![Compilador](https://github.com/AlfredoCU/Compilador/blob/feature/sintatico/Img/Interfaz.png)

@@ -15,3 +15,7 @@ Esto quiere decir que cuando se lee un lenguaje fuente, este pasa por cada etapa
 Realizando la tercera etapa del compilador que será el Analizador Semantico, en este proyecto se mostrará las estructuras generales del código, la validación de una gran cantidad de posibles estructuras de código y validación para detectar errores, utilizando los dos anteriores analizadores lexico y sintáctico.
 
 ![Compilador](https://github.com/AlfredoCU/Compilador/blob/feature/semantico/Img/Interfaz.png)
+
+### Colaboradores.
+-	Carreón Urbano Alfredo.
+-	Zúñiga Castellanos Francisco Jesús.

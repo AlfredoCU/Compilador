@@ -43,11 +43,3 @@ C:\Users\Seven\Desktop\8vo Semestre\Seminario de Traductores\Solucion1\Solucion1
 C:\Users\Seven\Desktop\8vo Semestre\Seminario de Traductores\Solucion1\Solucion1\obj\Debug\Solucion1.Properties.Resources.resources
 C:\Users\Seven\Desktop\8vo Semestre\Seminario de Traductores\Solucion1\Solucion1\obj\Debug\Solucion1.csproj.GenerateResource.cache
 C:\Users\Seven\Desktop\8vo Semestre\Seminario de Traductores\Solucion1\Solucion1\obj\Debug\Solucion1.csproj.CoreCompileInputs.cache
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\bin\Debug\Solucion1.exe.config
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\Solucion1.exe
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\Solucion1.pdb
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\Solucion1.csprojResolveAssemblyReference.cache
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\MainWindow.g.cs
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\App.g.cs
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\Solucion1_MarkupCompile.cache
-C:\Users\Alfredo\Desktop\Programa\Solucion1\Solucion1\obj\Debug\Solucion1_MarkupCompile.lref

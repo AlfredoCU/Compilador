@@ -15,3 +15,7 @@ Esto quiere decir que cuando se lee un lenguaje fuente, este pasa por cada etapa
 Realizando la segunda etapa del compilador que será el Analizador Sintáctico, en este proyecto se mostrará las estructuras generales del código, la validación de una gran cantidad de posibles estructuras de código y validación para detectar errores.
 
 ![Compilador](https://github.com/AlfredoCU/Compilador/blob/feature/sintactico/Img/Propyecto.JPG)
+
+### Colaboradores.
+-	Carreón Urbano Alfredo.
+-	Zúñiga Castellanos Francisco Jesús.

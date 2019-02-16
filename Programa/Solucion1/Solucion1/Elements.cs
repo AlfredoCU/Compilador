@@ -714,13 +714,15 @@ namespace Solucion1
     public class Operacion1 : Node
     {
         Node der = new Node();
-
+        Node izq = new Node();
         public Operacion1(ref Stack pila)
         {
             pila.Pop();
             der = (Node)pila.Pop();//quita exprsion
             pila.Pop();
             Simbolo = ((Terminal)pila.Pop()).nodo.Simbolo;//quita el operador
+            pila.Pop();
+            izq = (Node)pila.Pop();
         }
 
         public override void validatipos(List<object> tabsim, List<string> errores)

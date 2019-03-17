@@ -1,0 +1,29 @@
+<< Tipos de datos no compatibles. >>
+<#int num1 : true ;
+
+<< Variables que estan declaradas y no se usan. >>
+<#string msg: "hola";
+
+<Se repite el mismo nombre al declarar una variable con otra. >>
+<#string msg: "adios";
+
+<< Variables declaradas más de una vez. >>
+<#int num2 : 24 ;
+<#int num2 : 24 ;
+
+<< Variable no declarada. <#int num3 : 0 ; >>
+
+<#int num4 : 20 ;
+<#int resultado : 0 ;
+
+resultado : num1 + num2 ;
+#mostrar ( resultado ) ;
+
+resultadox : num3 - num4 ;
+#mostrar ( resultado ) ;
+
+resultado : num1 * num2 ;
+#mostrar ( resultado ) ;
+
+resultado : num1 / num2 ;
+#mostrar ( resultado ) ;
